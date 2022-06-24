@@ -2,7 +2,7 @@ const express = require("express");
 const partnerRouter = express.Router();
 
 //call without params---------------------------
-
+//edit
 partnerRouter
   .route("/")
   .all((req, res, next) => {
