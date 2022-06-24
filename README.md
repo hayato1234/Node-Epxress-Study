@@ -1,1 +1,1 @@
-Server structure using Express
+A server app using Express
